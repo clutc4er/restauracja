@@ -1,0 +1,29 @@
+.upperpanel{
+    background-color: rgb(129, 92, 13);
+}
+.secondpanel{
+    height: 404px;
+    background-color: bisque;
+}
+.secondpanel2{
+    font-size: 150%;
+    padding: 70px;
+    float:right;
+
+}
+.downpanel{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(240, 172, 89);
+}
+body{
+    background-color: bisque;
+}
+.downdown{
+    background-color: rgb(129, 92, 13);
+    text-align: left;
+}
+button{
+    background-color: rgb(66, 42, 9);
+    color:white;
+}
